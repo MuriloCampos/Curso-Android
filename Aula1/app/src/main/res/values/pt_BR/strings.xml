@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula1</string>
+    <string name="action_settings">Settings</string>
+    <string name="informaAlturaPt">Informe a altura em metros</string>
+</resources>
